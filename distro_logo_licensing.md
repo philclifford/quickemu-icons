@@ -6,6 +6,12 @@ The artwork for various Operating Systems and Distributions is used or combined 
 ## GPL
 ## MIT
 ## Apache
+## Berkeley License
+
+### openbsd
+https://www.openbsd.org/art4.html
+https://www.openbsd.org/policy.html
+
 
 
 ## Specific Permissions
@@ -85,14 +91,18 @@ http://community.kde.org/Promo
 
 Ubuntu Trademark and Copyright Policy
 http://www.ubuntu.com/aboutus/trademarkpolicy
+https://ubuntu.com/legal/intellectual-property-policy
+
+ubuntu
+kubuntu
+xubuntu
+
 
 ubuntu-budgie
 ubuntu-kylin
 ubuntu-mate
 ubuntu-studio
 lubuntu
-kubuntu
-xubuntu
 linuxmint
 linuxmint-cinnamon
 
@@ -106,11 +116,15 @@ linuxmint-cinnamon
 
 ### nixos
 
-### openbsd
+
+
 
 ### freebsd
 FreeBSD Foundation Trademark Usage Terms and Conditions
-http://www.freebsdfoundation.org/documents/Guidelines.shtml
+
+https://freebsdfoundation.org/about-us/about-the-foundation/project/
+https://freebsdfoundation.org/legal/trademark-usage-terms-and-conditions/
+https://goo.gl/forms/BXzbEltNwX5VE3ng2
 
 ### android
 
