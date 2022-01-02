@@ -22,6 +22,13 @@ https://www.openbsd.org/policy.html
 
  - [ ] [Haiku](https://www.haiku-inc.org/trademarks/allowed_usage/)
 
+ https://www.haiku-inc.org/trademarks/usage_requirements/
+
+ “Haiku® and the HAIKU logo® are registered trademarks of Haiku, Inc. and are developed by the Haiku Project”.
+ “Haiku, Inc.” shall be a hyperlink to “http://www.haiku-inc.org”
+“Haiku Project” shall be a hyperlink to “http://www.haiku-os.org”
+
+
 ### alma
  - [ ] [Alma Linux](https://almalinux.org/p/the-almalinux-os-trademark-usage-policy/ )
    - Problematic:
